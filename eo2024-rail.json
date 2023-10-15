@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [151.22434,-23.87152]
+  },
+  "properties": {
+    "name": "Gladstone Railway Station",
+    "URL": "https://www.queenslandrailtravel.com.au/Planyourtrip/findyourstation?StationName=Gladstone%20Station%20and%20Travel%20Centre"
+  }
+}
+
