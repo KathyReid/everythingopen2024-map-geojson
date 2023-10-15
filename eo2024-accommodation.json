@@ -1,0 +1,13 @@
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.22434,-23.87152]
+    },
+    "properties": {
+      "name": "Gladstone Reef Hotel",
+      "URL": "https://reefhotelgladstone.com.au/",
+      "description": "The ground floor accommodation here is ideal for those with impaired mobility."
+    }
+  }
+  
