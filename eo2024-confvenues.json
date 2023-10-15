@@ -1,0 +1,12 @@
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25457009685667,-23.84075469800318]
+    },
+    "properties": {
+      "name": "Everything Open - Gladstone Entertainment Convention Centre",
+      "URL": "https://www.gladstoneentertainment.com/",
+      "description": "Main conference venue"
+    }
+  }

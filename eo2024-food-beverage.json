@@ -8,4 +8,17 @@
       "name": "Liquor Express", 
       "URL": "https://starliquor.com.au/store/gladstone-reef-hotel-bottleshop/"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25449313748146,-23.83964508472087]
+    },
+    "properties": {
+      "name": "Gladstone Reef Hotel",
+      "URL": "https://reefhotelgladstone.com.au/#panel-eat",
+      "description": "Bistro available 5.30pm to 8.30pm daily."
+    }
   }
+
