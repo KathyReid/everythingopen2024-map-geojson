@@ -143,5 +143,17 @@
       "URL": "https://flavourin.com.au/",
       "description": "Indian, Pakistani, Bangladeshi and Sri Lankan groceries"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25690,-23.84385]
+    },
+    "properties": {
+      "name": "The Queens Gladstone",
+      "URL": "https://www.queensgladstone.au/",
+      "description": "Steakhouse and pizza, sports-bar style."
+    }
   }
     ]}

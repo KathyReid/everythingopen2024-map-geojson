@@ -24,5 +24,171 @@
       "URL": "https://www.oakshotels.com/en/oaks-grand-gladstone/rooms",
       "description": "Quality accommodation close to the venue."
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.26297828947372,-23.847280038964556]
+    },
+    "properties": {
+      "name": "The Club Hotel Gladstone",
+      "URL": "https://theclubhotelgladstone.com.au/accommodation/",
+      "description": "Rainbow-friendly motel style accommodation with on-site parking."
+    }
+  }, 
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25063228105094,-23.840715556372263]
+    },
+    "properties": {
+      "name": "Gladstone Backpackers",
+      "URL": "https://www.gladstonebackpackers.com/",
+      "description": "Cheap, hostel-style shared accommodation."
+    }
+  }, 
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25331289059793,-23.83960371177286]
+    },
+    "properties": {
+      "name": "Harbour Sails Motor Inn",
+      "URL": "https://harboursails.com.au/",
+      "description": "4-star motel style accommodation with parking for larger vehicles."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25349783833636,-23.839261249091766]
+    },
+    "properties": {
+      "name": "Mid City Motor Inn",
+      "URL": "https://www.midcitymotorinn.com/",
+      "description": "Basic, affordable motel style accommodation, catering to families."
+    }
+  }, 
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25542302291788,-23.840370239121967]
+    },
+    "properties": {
+      "name": "Gladstone Central Plaza",
+      "URL": "https://www.gladstonecentralplaza.com.au/",
+      "description": "Modern apartment hotel featuring 1-, 2- and 3-bedroom apartments."
+    }
+  }, 
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25604214178324,-23.841017429077713]
+    },
+    "properties": {
+      "name": "Harbour Lodge Motel",
+      "URL": "https://fear.vacationstay.eu/harbour-lodge-motel-australia",
+      "description": "3-star motel accommodation"
+    }
+  }, 
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.2566907424993,-23.84179270444567]
+    },
+    "properties": {
+      "name": "Gladstone City Central",
+      "URL": "https://www.gladstonecitycentral.com.au/",
+      "description": "Modern apartment hotel featuring 1-, 2- and 3-bedroom apartments."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25681604036495,-23.84237921402246]
+    },
+    "properties": {
+      "name": "The Gladstone Hotel",
+      "URL": "https://www.silkarihotels.com.au/gladstone-thegladstone/contact",
+      "description": "Modern apartment hotel featuring studio, 1- and 2-bedroom apartments."
+    }
+  }, 
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25697819054395,-23.842655614167562]
+    },
+    "properties": {
+      "name": "Gladstone Capricorn Apartments",
+      "URL": "https://sonata.hotel-detail-check.com/gladstone-capricorn-apartments-australia#",
+      "description": "Self-contained queen studio apartments."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25697819054395,-23.843809750359366]
+    },
+    "properties": {
+      "name": "The Queens Gladstone",
+      "URL": "https://www.queensgladstone.au/",
+      "description": "Basic motel-style accommodation, including family rooms."
+    }
+  },  
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25562891047824,-23.843809750359366]
+    },
+    "properties": {
+      "name": "CQ Motel Gladstone",
+      "URL": "https://southerncrossmotelgroup.com.au/motels/qld/gladstone-accommodation/gladstone-accommodation-cq-motel-gladstone/",
+      "description": "Motel-style accommodation"
+    }
+  }, 
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.2543688296137,-23.843100277427205]
+    },
+    "properties": {
+      "name": "Apartments G60 Gladstone",
+      "URL": "https://www.apartmentsg60gladstone.com.au/",
+      "description": "4-star apartment style, fully self-contained accommodation."
+    }
+  }, 
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.2543688296137,-23.843100277427205]
+    },
+    "properties": {
+      "name": "Parkview Motel",
+      "URL": "http://www.parkviewmotelgladstone.com.au/",
+      "description": "Basic, motel-style accommodation."
+    }
   }
     ]}
+
+
+
+
+    -23.842591297961395, 151.25346963316636
+
+
+
+
+
