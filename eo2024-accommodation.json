@@ -1,4 +1,7 @@
-{
+{  
+    "type":"FeatureCollection",
+    "features":[
+        {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -9,4 +12,17 @@
       "URL": "https://reefhotelgladstone.com.au/#panel-accommodation",
       "description": "The ground floor accommodation here is ideal for those with impaired mobility."
     }
+  }, 
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25550590374155,-23.84182339353703]
+    },
+    "properties": {
+      "name": "Oaks Gladstone Grand Hotel",
+      "URL": "https://www.oakshotels.com/en/oaks-grand-gladstone/rooms",
+      "description": "Quality accommodation close to the venue."
+    }
   }
+    ]}

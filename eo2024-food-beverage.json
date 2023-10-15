@@ -1,3 +1,6 @@
+{  
+    "type":"FeatureCollection",
+    "features":[
 {
     "type": "Feature",
     "geometry": {
@@ -8,8 +11,8 @@
       "name": "Liquor Express", 
       "URL": "https://starliquor.com.au/store/gladstone-reef-hotel-bottleshop/"
     }
-  },
-  {
+},
+{
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -20,5 +23,125 @@
       "URL": "https://reefhotelgladstone.com.au/#panel-eat",
       "description": "Bistro available 5.30pm to 8.30pm daily."
     }
+},
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25550590374155,-23.84182339353703]
+    },
+    "properties": {
+      "name": "Oak and Vine at the Oaks Grand Hotel",
+      "URL": "https://www.oakshotels.com/en/oaks-grand-gladstone/oak-and-vine",
+      "description": "Hotel bistro meals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.2525769314972,-23.842461255757808]
+    },
+    "properties": {
+      "name": "McDonalds Gladstone City",
+      "URL": "https://mcdonalds.com.au/",
+      "description": "Open 24 hrs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25323620226348,-23.837747792751504]
+    },
+    "properties": {
+      "name": "Gladstone Yacht Club Restaurant and Bar",
+      "URL": "https://www.gycrb.com.au/",
+      "description": "Higher-end food, specialising in seafood"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.2522259995333,-23.83916130135114]
+    },
+    "properties": {
+      "name": "Fifi's Kebabs",
+      "URL": "https://fifiskebab.com.au/",
+      "description": "Kebas, gozeleme, halal snack packs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.2522259995333,-23.83916130135114]
+    },
+    "properties": {
+      "name": "Central Lane Hotel",
+      "URL": "https://www.centrallanehotel.com.au/bar-and-dining",
+      "description": "Hotel bistro, pub grub"
+    }
+  }, 
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.259743399983883,-23.847078230500422]
+    },
+    "properties": {
+      "name": "Woolworths Gladstone Valley",
+      "URL": "https://www.centrallanehotel.com.au/bar-and-dining",
+      "description": "Groceries, fresh food if you want to make your own food"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.26100433777026,-23.848169679137843]
+    },
+    "properties": {
+      "name": "Chinatown Restaurant",
+      "URL": "https://www.chinatownrestaurant.net.au/",
+      "description": "Chinese food"
+    }
+  }, 
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.2592829544556,-23.848080349808683]
+    },
+    "properties": {
+      "name": "Subway",
+      "URL": "https://www.chinatownrestaurant.net.au/",
+      "description": "Footlong sandwiches and wraps"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25962628662924,-23.845795181435168]
+    },
+    "properties": {
+      "name": "Ward's brewery",
+      "URL": "https://www.wardsbrewery.com/food",
+      "description": "Beer, burgers and wings"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.26018058194433,-23.846237841369177]
+    },
+    "properties": {
+      "name": "Flavourin International Groceries",
+      "URL": "https://flavourin.com.au/",
+      "description": "Indian, Pakistani, Bangladeshi and Sri Lankan groceries"
+    }
   }
-
+    ]}
