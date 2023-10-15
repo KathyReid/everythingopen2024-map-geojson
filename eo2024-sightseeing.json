@@ -1,0 +1,17 @@
+{  
+    "type":"FeatureCollection",
+    "features":[
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [151.25295500365579,-23.834601257852853]
+  },
+  "properties": {
+    "name": "Eastern Shores Water Play Park",
+    "URL": "https://gladstoneairport.com.au/flights/",
+    "description": "Family-friendly water park with sprinklers, open 9am to 6pm daily during April."
+  }
+}
+]}
+
