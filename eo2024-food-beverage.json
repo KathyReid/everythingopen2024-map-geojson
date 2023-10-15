@@ -16,7 +16,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [151.25449313748146,-23.83964508472087]
+      "coordinates": [151.25445,-23.83965]
     },
     "properties": {
       "name": "Gladstone Reef Hotel",
@@ -28,7 +28,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [151.25555,-23.84185]
+      "coordinates": [151.25558,-23.84188]
     },
     "properties": {
       "name": "Oak and Vine at the Oaks Grand Hotel",
