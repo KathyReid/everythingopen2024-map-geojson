@@ -28,7 +28,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [151.25550590374155,-23.84182339353703]
+      "coordinates": [151.25555,-23.84185]
     },
     "properties": {
       "name": "Oak and Vine at the Oaks Grand Hotel",
@@ -116,7 +116,7 @@
     },
     "properties": {
       "name": "Subway",
-      "URL": "https://www.chinatownrestaurant.net.au/",
+      "URL": "https://www.subway.com/en-AU/MenuNutrition/Menu/Sandwiches",
       "description": "Footlong sandwiches and wraps"
     }
   },
