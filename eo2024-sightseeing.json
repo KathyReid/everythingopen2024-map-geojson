@@ -9,9 +9,66 @@
   },
   "properties": {
     "name": "Eastern Shores Water Play Park",
-    "URL": "https://gladstoneairport.com.au/flights/",
     "description": "Family-friendly water park with sprinklers, open 9am to 6pm daily during April."
   }
-}
+},
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.2906310502062,-23.80985408602883]
+    },
+    "properties": {
+      "name": "Quoin Island Retreat and Turtle Rehabilitation Centre",
+      "URL": "https://www.gladstoneregion.info/explore/gladstone/attraction/quoin-island-retreat-and-turtle-rehabilitation-centre/",
+      "description": "As the home to Quoin Island Turtle Rehabilitation Centre, Quoin Island offers an educational experience at the Turtle Centre encompassing environmental, team building and animal welfare experiences. Please note Quoin Island is accessible for private bookings only."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.2637134915889,-23.891727958039063]
+    },
+    "properties": {
+      "name": "Tondoon Botanic Gardens",
+      "URL": "https://www.gladstone.qld.gov.au/tondoon-botanic-gardens",
+      "description": "Tondoon houses three main living collections, The Port Curtis Plant Region Collection, The South East Queensland Rainforest collection, and The North Queensland Rainforest collection."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.248759333862,-23.833251628690714]
+    },
+    "properties": {
+      "name": "Heron Island Ferry Terminal (to Heron Island)",
+      "URL": "https://www.heronisland.com/stay/getting-here",
+      "description": "Heron Island is famous around the world for its spectacular coral reef, extraordinary variety of aquatic life, nesting turtles, migrating whales and as a breeding sanctuary for an abundance of bird life. Ferry is from $AUD 170 return."
+  }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.2579182513032,-23.84502046087766]
+    },
+    "properties": {
+      "name": "Spinnaker Park",
+      "description": "Fantastic spot for a walk or a picnic. Public toilets and BBQ facilities available."
+  }
+  }, 
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25845249112672,-23.84497887463013]
+    },
+    "properties": {
+      "name": "Gladstone Regional Art Gallery and Museum",
+      "URL": "https://gragm.qld.gov.au/",
+      "description": "The Art Gallery and Museum preserves the region's cultural heritage, and exhibits works by local and Australian artists."
+  }
+  }
 ]}
-

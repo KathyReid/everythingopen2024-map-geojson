@@ -1,3 +1,6 @@
+{  
+  "type":"FeatureCollection",
+  "features":[
 {
   "type": "Feature",
   "geometry": {
@@ -8,4 +11,16 @@
     "name": "Gladstone Railway Station",
     "URL": "https://www.queenslandrailtravel.com.au/Planyourtrip/findyourstation?StationName=Gladstone%20Station%20and%20Travel%20Centre"
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [151.25409872645872,-23.846978603523254]
+  },
+  "properties": {
+    "name": "Greyhound Bus Stop",
+    "URL": "https://www.greyhound.com.au/buses/brisbane-to-gladstone"
+  }
 }
+  ]}

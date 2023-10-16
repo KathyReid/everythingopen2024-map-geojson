@@ -180,5 +180,18 @@
       "URL": "http://www.parkviewmotelgladstone.com.au/",
       "description": "Basic, motel-style accommodation."
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25590632686158,-23.846309627933834]
+    },
+    "properties": {
+      "name": "Gladstone Downtown Central",
+      "URL": "https://www.gladstonedowntowncentral.com.au/",
+      "description": "Apartment hotel featuring one-, two- and three-bedroom apartments."
+    }
   }
     ]}
+
