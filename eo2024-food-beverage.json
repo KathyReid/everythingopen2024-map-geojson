@@ -285,8 +285,19 @@
     "properties": {
       "name": "Fresh Fix", 
       "URL": "https://freshfixgladstone.com.au/",
-      "description": "Tim is a qualified chef, T.A.F.E. Teacher and a graduate of Southern Cross University with a Diploma of Food Service Management – the first person in Australia to do so. <br>Janene has extensive experience in dietetics within the hospitals but her forte is front of house hospitality with extensive barista skills and knowledge with exemplary customer care. <br>Together we have owned and operated 4 previous businesses on the Gold Coast and to date Fresh Fix is the busiest one thus far.<br>
-What makes Fresh Fix Café such a success – location, food, service, staff and café ambience.<br>[X] Vegetarian [] Vegan [X] Gluten Friendly [X] Dairy Free"
+      "description": "Tim is a qualified chef, T.A.F.E. Teacher and a graduate of Southern Cross University with a Diploma of Food Service Management – the first person in Australia to do so. <br>Janene has extensive experience in dietetics within the hospitals but her forte is front of house hospitality with extensive barista skills and knowledge with exemplary customer care. <br>Together we have owned and operated 4 previous businesses on the Gold Coast and to date Fresh Fix is the busiest one thus far.<br>What makes Fresh Fix Café such a success – location, food, service, staff and café ambience.<br>[X] Vegetarian [] Vegan [X] Gluten Friendly [X] Dairy Free"
+    }
+  },
+   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25929438906513,-23.84717094978707]
+    },
+    "properties": {
+      "name": "Ichi Maki", 
+      "URL": "https://gladstonecentreplaza.com.au/stores/ichimaki/",
+      "description": "Gladstone Ichimaki will provide a range of sushi options from nori, nigiri, sashimi, bento boxes, salads and Teppanyaki. Tuck into our scrumptious pork and ginger dumplings, slurp up some heart warming ramen soup. <br>Ichimaki will also cater those taste buds aching for a good Asian stir fry, with our chefs all highly trained and experienced.<br>[X] Vegetarian [] Vegan [X] Gluten Friendly [] Dairy Free"
     }
   },
   {
