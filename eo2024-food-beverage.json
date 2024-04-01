@@ -60,6 +60,18 @@
       "description": "The Coffee Club provides quality coffee and premium meal choices in a casual atmosphere. Sit back and sip on a expertly brewed coffee made from premium coffee beans, while you enjoy a tasty meal with colleagues, friends or when needing a delicious feed on the go. <br>[X] Vegetarian [X] Vegan [X] Gluten Friendly [] Dairy Free"
       }
   },
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25538945287633,-23.84149795405685]
+    },
+    "properties": {
+      "name": "Dimitris Mediterranean Restaurant", 
+      "URL": "https://www.facebook.com/people/Dimitris-Mediterranean-Restaurant/",
+      "description": "[X] Vegetarian [] Vegan [X] Gluten Friendly [] Dairy Free"
+    }
+  },
   {
     "type": "Feature",
     "geometry": {
@@ -117,7 +129,7 @@
     "properties": {
       "name": "Fifi's Kebabs",
       "URL": "https://fifiskebab.com.au/",
-      "description": "Kebas, gozeleme, halal snack packs"
+      "description": "Come here for some rest after a long walk around Gladstone Entertainment Convention Centre. Turkish cuisine will be what you are offered to taste at this restaurant. <br>Kebas, gozeleme, halal snack packs<br>[X] Vegetarian [] Vegan [] Gluten Friendly [] Dairy Free"
     }
   },
    {
