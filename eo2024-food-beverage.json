@@ -232,12 +232,12 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [151.25426934641925,-23.83205305982473]
+      "coordinates": [151.25327855436836,-23.832320954210953]
     },
     "properties": {
       "name": "Auckland House Brewery",
       "URL": "https://www.aucklandhouse.co/",
-      "description": "Brewery and bistro with am emphasis on seafood and bespoke beers. Open early from 7am, and open until late at night."
+      "description": "With a warm welcome feel and generosity, matched with premium dining areas, enjoy the unique combination of water views, fresh drinks and great food with the people you love. A short stroll through East Shores parkland make this a calming walk with great views of the harbour.<BR>[X] Vegetarian [X] Vegan [X] Gluten Friendly [X] Dairy Free"
     }
   }
     ]}
