@@ -20,9 +20,9 @@
     },
     "properties": {
       "name": "Lightbox Espresso & Wine Bar", 
-      "URL": "http://www.lightboxgladstone.co"
+      "URL": "http://www.lightboxgladstone.co",
       "description": "An espresso and wine bar with a unique drink offering and progressive food menu to match.Located at the entrance to Gladstone’s recently re-developed entertainment precinct, Lightbox is the perfect spot for a pre-show drink, lazy weekend breakfast, or chilled Sunday session enjoying live music in the garden or courtyard.",
-      "sensitivity":"[X] Vegetarian [X] Vegan [X] Gluten Friendly [X] Dairy Free"
+      "sensitivity": "[X] Vegetarian [X] Vegan [X] Gluten Friendly [X] Dairy Free"
     }
 },
 {
