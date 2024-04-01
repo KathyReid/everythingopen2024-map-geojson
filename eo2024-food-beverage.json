@@ -229,7 +229,11 @@
     "properties": {
       "name": "Central Lane Hotel",
       "URL": "https://www.centrallanehotel.com.au/bar-and-dining",
-      "description": "Hotel bistro, pub grub"
+      "description": "Hotel bistro, pub grub",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": true,
+      "DairyFree": false
     }
   }, 
   {
@@ -244,18 +248,6 @@
       "description": "Groceries, fresh food if you want to make your own food"
     }
   },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [151.26100433777026,-23.848169679137843]
-    },
-    "properties": {
-      "name": "Chinatown Restaurant",
-      "URL": "https://www.chinatownrestaurant.net.au/",
-      "description": "Chinese food"
-    }
-  }, 
   {
     "type": "Feature",
     "geometry": {
@@ -301,8 +293,11 @@
     "properties": {
       "name": "The Queens Gladstone",
       "URL": "https://www.queensgladstone.au/",
-      "description": "Steakhouse and pizza, sports-bar style.<br>[X] Vegetarian [] Vegan [X] Gluten Friendly [X] Dairy Free"
-    }
+      "description": "Steakhouse and pizza, sports-bar style.<br>[X] Vegetarian [] Vegan [X] Gluten Friendly [X] Dairy Free",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": true,
+      "DairyFree": true
   },
   {
     "type": "Feature",
@@ -313,14 +308,18 @@
     "properties": {
       "name": "Familia Restaurant and Cafe Gelati",
       "URL": "https://www.facebook.com/familiarestaurantcafegelati/",
-      "description": "The aroma of crema delightfully lures your towards La Familia. Service is superb, friendly and quick. Lovely atmosphere and ambience, welcomed as if your are la familia. <br>Venue is homely and clean and begs you to come in, relax and enjoy. Inside and outside verandah dining with the most fabulous water view.<br> Delightful and various delectable brekky, lunch, drinks, (hot, cold and alcoholic as well as ice cream and gelato available.<br> A must to experience whilst in Gladstone.<br>[X] Vegetarian [X] Vegan [X] Gluten Friendly [X] Dairy Free"
+      "description": "The aroma of crema delightfully lures your towards La Familia. Service is superb, friendly and quick. Lovely atmosphere and ambience, welcomed as if your are la familia. <br>Venue is homely and clean and begs you to come in, relax and enjoy. Inside and outside verandah dining with the most fabulous water view.<br> Delightful and various delectable brekky, lunch, drinks, (hot, cold and alcoholic as well as ice cream and gelato available.<br> A must to experience whilst in Gladstone.",
+      "Vegetarian": true,
+      "Vegan": true,
+      "GlutenFree": true,
+      "DairyFree": true
     }
   },
   {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [151.2471181600985,-23.828868033955622]
+      "coordinates": [151.24705224021903,-23.828800904979083]
     },
     "properties": {
       "name": "Cafe Spinnaker Park",
@@ -332,12 +331,16 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": []
+      "coordinates": [151.25841944200855,-23.846943776106173]
     },
     "properties": {
       "name": "Fresh Fix", 
       "URL": "https://freshfixgladstone.com.au/",
-      "description": "Tim is a qualified chef, T.A.F.E. Teacher and a graduate of Southern Cross University with a Diploma of Food Service Management – the first person in Australia to do so. <br>Janene has extensive experience in dietetics within the hospitals but her forte is front of house hospitality with extensive barista skills and knowledge with exemplary customer care. <br>Together we have owned and operated 4 previous businesses on the Gold Coast and to date Fresh Fix is the busiest one thus far.<br>What makes Fresh Fix Café such a success – location, food, service, staff and café ambience.<br>[X] Vegetarian [] Vegan [X] Gluten Friendly [X] Dairy Free"
+      "description": "Tim is a qualified chef, T.A.F.E. Teacher and a graduate of Southern Cross University with a Diploma of Food Service Management – the first person in Australia to do so. <br>Janene has extensive experience in dietetics within the hospitals but her forte is front of house hospitality with extensive barista skills and knowledge with exemplary customer care. <br>Together we have owned and operated 4 previous businesses on the Gold Coast and to date Fresh Fix is the busiest one thus far.<br>What makes Fresh Fix Café such a success – location, food, service, staff and café ambience.",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": true,
+      "DairyFree": true
     }
   },
    {
@@ -349,7 +352,11 @@
     "properties": {
       "name": "Ichi Maki", 
       "URL": "https://gladstonecentreplaza.com.au/stores/ichimaki/",
-      "description": "Gladstone Ichimaki will provide a range of sushi options from nori, nigiri, sashimi, bento boxes, salads and Teppanyaki. Tuck into our scrumptious pork and ginger dumplings, slurp up some heart warming ramen soup. <br>Ichimaki will also cater those taste buds aching for a good Asian stir fry, with our chefs all highly trained and experienced.<br>[X] Vegetarian [] Vegan [X] Gluten Friendly [] Dairy Free"
+      "description": "Gladstone Ichimaki will provide a range of sushi options from nori, nigiri, sashimi, bento boxes, salads and Teppanyaki. Tuck into our scrumptious pork and ginger dumplings, slurp up some heart warming ramen soup. <br>Ichimaki will also cater those taste buds aching for a good Asian stir fry, with our chefs all highly trained and experienced.",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": true,
+      "DairyFree": false
     }
   },
   {
@@ -361,8 +368,7 @@
     "properties": {
       "name": "Sushi hyo", 
       "URL": "https://www.facebook.com/p/Sushi-Hyo-Train-Gladstone-100063766102169/",
-      "description": "Gladstone Ichimaki will provide a range of sushi options from nori, nigiri, sashimi, bento boxes, salads and Teppanyaki. Tuck into our scrumptious pork and ginger dumplings, slurp up some heart warming ramen soup. <BR>Ichimaki will also cater those taste buds aching for a good Asian stir fry, with our chefs all highly trained and experienced.
-",
+      "description": "Gladstone Ichimaki will provide a range of sushi options from nori, nigiri, sashimi, bento boxes, salads and Teppanyaki. Tuck into our scrumptious pork and ginger dumplings, slurp up some heart warming ramen soup. <BR>Ichimaki will also cater those taste buds aching for a good Asian stir fry, with our chefs all highly trained and experienced.",
       "Vegetarian": true,
       "Vegan": false,
       "GlutenFree": true,
@@ -399,6 +405,54 @@
       "Vegan": false,
       "GlutenFree": false,
       "DairyFree": false
+    }
+  },
+   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.2609828396357,-23.848222150766887]
+    },
+    "properties": {
+      "name": "Chinatown Restaurant", 
+      "URL": "https://www.chinatownrestaurant.net.au/",
+      "description": "When you’re looking for premium-quality Chinese cuisine at prices that don’t hurt the hip pocket, Chinatown Restaurant is the answer. We’re open for both lunch and dinner, offering a massive selection of beef, pork, chicken, seafood, vegetarian and duck dishes. Fill a container with your favourites and take it home, or take a seat and dine in—the choice is yours! We also cater to large groups and functions. For all enquiries or to order takeaway from the menu, call our friendly team today.",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": false,
+      "DairyFree": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.26142942744988,-23.84754997188853]
+    },
+    "properties": {
+      "name": "Young Australian Hotel", 
+      "URL": "https://www.youngaussiehotel.com.au/",
+      "description": "The Young Australian bistro captures the modern pub eating aesthetic in an all-inclusive, colourful and accommodating menu, with a separate children's menu.<br>Our eatery is the local go-to for every occasion. The meals on offer are plentiful and delicious with a selection of entrées, main courses, share plates, pizzas and meals even the youngsters will enjoy.",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": false,
+      "DairyFree": false
+    }
+  },
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.26284898656667,-23.847264172153796]
+    },
+    "properties": {
+      "name": "The Club Hotel", 
+      "URL": "https://theclubhotelgladstone.com.au/",
+      "description": "Our newly renovated bistro is the perfect spot for a bite to eat. Take a seat and tuck into some quality Queensland classics, from fresh seafood to family favourites like the classic parmy, plus a range of steaks to satisfy our amazing locals. You’ll find all your favourites on tap, with a selection of wines from our favourite producers near and far.",
+      "Vegetarian": true,
+      "Vegan": true,
+      "GlutenFree": true,
+      "DairyFree": true
     }
   },
   {
