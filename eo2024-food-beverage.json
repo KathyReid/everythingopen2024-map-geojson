@@ -52,6 +52,19 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
+      "coordinates": [151.2547061465109,-23.841856537441355]
+    },
+    "properties": {
+      "name": "The Grand Coffee Club", 
+      "URL": "https://coffeeclub.com.au/",
+      "description": "The Coffee Club provides quality coffee and premium meal choices in a casual atmosphere. Sit back and sip on a expertly brewed coffee made from premium coffee beans, while you enjoy a tasty meal with colleagues, friends or when needing a delicious feed on the go.
+<br>[X] Vegetarian [X] Vegan [X] Gluten Friendly [] Dairy Free",
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
       "coordinates": [151.2525769314972,-23.842461255757808]
     },
     "properties": {
@@ -69,7 +82,8 @@
     "properties": {
       "name": "Gladstone Yacht Club Restaurant and Bar",
       "URL": "https://www.gycrb.com.au/",
-      "description": "Higher-end food, specialising in seafood"
+      "description": "The Gladstone Yacht Club was designed to take full advantage of its exceptional location. <br> The Captain’s Deck and New Veranda offer beautiful water and sunset views, a constant sea breeze and a perfect place to wine, dine or relax & unwind.<br>
+Offering an extensive A la Carte menu Restaurant Menu available for lunch from 11:30am to 2pm and Dinner from 5pm-8pm, all with Gluten Free options (available on request).<br>[X] Vegetarian [X] Vegan [X] Gluten Friendly [X] Dairy Free"
     }
   },
   {
