@@ -120,6 +120,30 @@
       "description": "Kebas, gozeleme, halal snack packs"
     }
   },
+   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.2557837375948,-23.84293436991247]
+    },
+    "properties": {
+      "name": "Thai Classic", 
+      "URL": "https://www.facebook.com/ThaiClassicRestaurantGladstone/",
+      "description": "Thai Classic Restaurant, a renowned and fully licensed establishment nestled in the heart of Gladstone, specializes in authentic Thai cuisine, featuring a spectrum of traditional Thai dishes.<br> From the ever-popular Thai Green Curry and Pad Thai to an exquisite assortment like the savoury beef salad, the restaurant offers a diverse selection to cater to various tastes.<br>[X] Vegetarian [] Vegan [] Gluten Friendly [] Dairy Free"
+    }
+  },
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25790804711733,-23.84668296004798]
+    },
+    "properties": {
+      "name": "Thai Basement", 
+      "URL": "https://www.facebook.com/ThaiClassicRestaurantGladstone/",
+      "description": "Indulge in the magnificent exotic spices and aromas of Thai cuisine at Thai-Basement, where you can enjoy a memorable dining experience for lunch, dinner, or takeaway. <br>Immerse yourself in our relaxed and casual setting, complemented by the inviting atmosphere of our licensed bar.<br>[X] Vegetarian [] Vegan [] Gluten Friendly [] Dairy Free"
+    }
+  },
   {
     "type": "Feature",
     "geometry": {
@@ -196,12 +220,12 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [151.25690,-23.84385]
+      "coordinates": [151.25599563210767,-23.843876434181436]
     },
     "properties": {
       "name": "The Queens Gladstone",
       "URL": "https://www.queensgladstone.au/",
-      "description": "Steakhouse and pizza, sports-bar style."
+      "description": "Steakhouse and pizza, sports-bar style.<br>[X] Vegetarian [] Vegan [X] Gluten Friendly [X] Dairy Free"
     }
   },
   {
