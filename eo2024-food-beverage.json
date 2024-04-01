@@ -21,7 +21,11 @@
     "properties": {
       "name": "Lightbox Espresso & Wine Bar", 
       "URL": "http://www.lightboxgladstone.co",
-      "description": "An espresso and wine bar with a unique drink offering and progressive food menu to match.<br>Located at the entrance to Gladstone’s recently re-developed entertainment precinct, <br>Lightbox is the perfect spot for a pre-show drink, lazy weekend breakfast, or chilled Sunday session enjoying live music in the garden or courtyard.<BR> [X] Vegetarian [X] Vegan [X] Gluten Friendly [X] Dairy Free"
+      "description": "An espresso and wine bar with a unique drink offering and progressive food menu to match.<br>Located at the entrance to Gladstone’s recently re-developed entertainment precinct, <br>Lightbox is the perfect spot for a pre-show drink, lazy weekend breakfast, or chilled Sunday session enjoying live music in the garden or courtyard.",
+      "Vegetarian": True,
+      "Vegan": True,
+      "GlutenFree": True,
+      "DairyFree": True
     }
 },
 {
@@ -33,7 +37,11 @@
     "properties": {
       "name": "Gladstone Reef Hotel",
       "URL": "https://reefhotelgladstone.com.au/#panel-eat",
-      "description": "Freshly renovated, Gladstone Reef Hotel’s a La Carte bistro offers modern Australian cuisine and seats 120 people in air-conditioned comfort. <BR>Offering nightly dinner specials, we also offer Chefs’ specials daily for lunch and dinner. <BR>Dine in our comfortable restaurant or enjoy your meal while watching the sunset over Gladstone Harbour from our beautiful deck.<BR>[X] Vegetarian [] Vegan [X] Gluten Friendly [] Dairy Free"
+      "description": "Freshly renovated, Gladstone Reef Hotel’s a La Carte bistro offers modern Australian cuisine and seats 120 people in air-conditioned comfort. <BR>Offering nightly dinner specials, we also offer Chefs’ specials daily for lunch and dinner. <BR>Dine in our comfortable restaurant or enjoy your meal while watching the sunset over Gladstone Harbour from our beautiful deck.",
+      "Vegetarian": True,
+      "Vegan": False,
+      "GlutenFree": True,
+      "DairyFree": False
     }
   },
   {
@@ -45,7 +53,11 @@
     "properties": {
       "name": "Oak and Vine at the Oaks Grand Hotel",
       "URL": "https://www.oakshotels.com/en/oaks-grand-gladstone/oak-and-vine",
-      "description": "Sporting a fresh, bright and leafy interior, Oak & Vine is the place to go for traditional hotel bistro meals, including a range of chicken schnitzels, classic fish and chips, pasta dishes and great chargrilled steaks.<br>Oak & Vine also features a bar which boasts your favourite draught beers, Australian and New Zealand wines and cocktails to enjoy with your meal, after work or just on a night out with friends.<BR>[] Vegetarian [] Vegan [X] Gluten Friendly [X] Dairy Free"
+      "description": "Sporting a fresh, bright and leafy interior, Oak & Vine is the place to go for traditional hotel bistro meals, including a range of chicken schnitzels, classic fish and chips, pasta dishes and great chargrilled steaks.<br>Oak & Vine also features a bar which boasts your favourite draught beers, Australian and New Zealand wines and cocktails to enjoy with your meal, after work or just on a night out with friends.",
+      "Vegetarian": False,
+      "Vegan": False,
+      "GlutenFree": True,
+      "DairyFree": True
       }
   },
   {
@@ -57,7 +69,11 @@
     "properties": {
       "name": "The Grand Coffee Club", 
       "URL": "https://coffeeclub.com.au/",
-      "description": "The Coffee Club provides quality coffee and premium meal choices in a casual atmosphere. Sit back and sip on a expertly brewed coffee made from premium coffee beans, while you enjoy a tasty meal with colleagues, friends or when needing a delicious feed on the go. <br>[X] Vegetarian [X] Vegan [X] Gluten Friendly [] Dairy Free"
+      "description": "The Coffee Club provides quality coffee and premium meal choices in a casual atmosphere. Sit back and sip on a expertly brewed coffee made from premium coffee beans, while you enjoy a tasty meal with colleagues, friends or when needing a delicious feed on the go. <br>[X] Vegetarian [X] Vegan [X] Gluten Friendly [] Dairy Free",
+      "Vegetarian": True,
+      "Vegan": True,
+      "GlutenFree": True,
+      "DairyFree": False
       }
   },
     {
@@ -69,7 +85,11 @@
     "properties": {
       "name": "Dimitris Mediterranean Restaurant", 
       "URL": "https://www.facebook.com/people/Dimitris-Mediterranean-Restaurant/",
-      "description": "[X] Vegetarian [] Vegan [X] Gluten Friendly [] Dairy Free"
+      "description": "[X] Vegetarian [] Vegan [X] Gluten Friendly [] Dairy Free",
+      "Vegetarian": True,
+      "Vegan": False,
+      "GlutenFree": True,
+      "DairyFree": False
     }
   },
   {
@@ -81,7 +101,11 @@
     "properties": {
       "name": "The Cotton Mill Gladstone", 
       "URL": "https://www.facebook.com/thecottonmillgladstone",
-      "description": "[X] Vegetarian [] Vegan [] Gluten Friendly [] Dairy Free"
+      "description": "[X] Vegetarian [] Vegan [] Gluten Friendly [] Dairy Free",
+      "Vegetarian": True,
+      "Vegan": False,
+      "GlutenFree": False,
+      "DairyFree": False
     }
   }, 
     {
@@ -93,7 +117,11 @@
     "properties": {
       "name": "Rocksalt Bar & Restaurant", 
       "URL": "http://www.rocksaltgladstone.com.au/",
-      "description": "[X] Vegetarian [] Vegan [X] Gluten Friendly [X] Dairy Free"
+      "description": "[X] Vegetarian [] Vegan [X] Gluten Friendly [X] Dairy Free",
+      "Vegetarian": True,
+      "Vegan": False,
+      "GlutenFree": True,
+      "DairyFree": True
     }
   },
   {
@@ -105,7 +133,11 @@
     "properties": {
       "name": "McDonalds Gladstone City",
       "URL": "https://mcdonalds.com.au/",
-      "description": "Open 24 hrs"
+      "description": "Open 24 hrs",
+      "Vegetarian": True,
+      "Vegan": False,
+      "GlutenFree": False,
+      "DairyFree": True
     }
   },
   {
@@ -117,7 +149,11 @@
     "properties": {
       "name": "Gladstone Yacht Club Restaurant and Bar",
       "URL": "https://www.gycrb.com.au/",
-      "description": "The Gladstone Yacht Club was designed to take full advantage of its exceptional location. <br> The Captain’s Deck and New Veranda offer beautiful water and sunset views, a constant sea breeze and a perfect place to wine, dine or relax & unwind.<br>Offering an extensive A la Carte menu Restaurant Menu available for lunch from 11:30am to 2pm and Dinner from 5pm-8pm, all with Gluten Free options (available on request).<br>[X] Vegetarian [X] Vegan [X] Gluten Friendly [X] Dairy Free"
+      "description": "The Gladstone Yacht Club was designed to take full advantage of its exceptional location. <br> The Captain’s Deck and New Veranda offer beautiful water and sunset views, a constant sea breeze and a perfect place to wine, dine or relax & unwind.<br>Offering an extensive A la Carte menu Restaurant Menu available for lunch from 11:30am to 2pm and Dinner from 5pm-8pm, all with Gluten Free options (available on request).",
+      "Vegetarian": True,
+      "Vegan": True,
+      "GlutenFree": True,
+      "DairyFree": True
     }
   },
     {
@@ -129,7 +165,11 @@
     "properties": {
       "name": "Gladstone Fish Market Hot Box", 
       "URL": "https://www.facebook.com/p/Gladstone-Fish-Market-Hot-Box-100041565171135/",
-      "description": "Fish and chips is what makes our world go around. Fresh Reef fish and chips"
+      "description": "Fish and chips is what makes our world go around. Fresh Reef fish and chips",
+      "Vegetarian": False,
+      "Vegan": False,
+      "GlutenFree": False,
+      "DairyFree": False
     }
   },
   {
@@ -141,7 +181,11 @@
     "properties": {
       "name": "Fifi's Kebabs",
       "URL": "https://fifiskebab.com.au/",
-      "description": "Come here for some rest after a long walk around Gladstone Entertainment Convention Centre. Turkish cuisine will be what you are offered to taste at this restaurant. <br>Kebas, gozeleme, halal snack packs<br>[X] Vegetarian [] Vegan [] Gluten Friendly [] Dairy Free"
+      "description": "Come here for some rest after a long walk around Gladstone Entertainment Convention Centre. Turkish cuisine will be what you are offered to taste at this restaurant. <br>Kebas, gozeleme, halal snack packs<br>[X] Vegetarian [] Vegan [] Gluten Friendly [] Dairy Free",
+      "Vegetarian": True,
+      "Vegan": False,
+      "GlutenFree": False,
+      "DairyFree": False
     }
   },
    {
@@ -153,7 +197,11 @@
     "properties": {
       "name": "Thai Classic", 
       "URL": "https://www.facebook.com/ThaiClassicRestaurantGladstone/",
-      "description": "Thai Classic Restaurant, a renowned and fully licensed establishment nestled in the heart of Gladstone, specializes in authentic Thai cuisine, featuring a spectrum of traditional Thai dishes.<br> From the ever-popular Thai Green Curry and Pad Thai to an exquisite assortment like the savoury beef salad, the restaurant offers a diverse selection to cater to various tastes.<br>[X] Vegetarian [] Vegan [] Gluten Friendly [] Dairy Free"
+      "description": "Thai Classic Restaurant, a renowned and fully licensed establishment nestled in the heart of Gladstone, specializes in authentic Thai cuisine, featuring a spectrum of traditional Thai dishes.<br> From the ever-popular Thai Green Curry and Pad Thai to an exquisite assortment like the savoury beef salad, the restaurant offers a diverse selection to cater to various tastes.",
+      "Vegetarian": True,
+      "Vegan": False,
+      "GlutenFree": False,
+      "DairyFree": False
     }
   },
     {
@@ -165,7 +213,11 @@
     "properties": {
       "name": "Thai Basement", 
       "URL": "https://www.facebook.com/ThaiClassicRestaurantGladstone/",
-      "description": "Indulge in the magnificent exotic spices and aromas of Thai cuisine at Thai-Basement, where you can enjoy a memorable dining experience for lunch, dinner, or takeaway. <br>Immerse yourself in our relaxed and casual setting, complemented by the inviting atmosphere of our licensed bar.<br>[X] Vegetarian [] Vegan [] Gluten Friendly [] Dairy Free"
+      "description": "Indulge in the magnificent exotic spices and aromas of Thai cuisine at Thai-Basement, where you can enjoy a memorable dining experience for lunch, dinner, or takeaway. <br>Immerse yourself in our relaxed and casual setting, complemented by the inviting atmosphere of our licensed bar.",
+      "Vegetarian": True,
+      "Vegan": False,
+      "GlutenFree": False,
+      "DairyFree": False
     }
   },
   {
