@@ -72,6 +72,18 @@
       "description": "[X] Vegetarian [] Vegan [] Gluten Friendly [] Dairy Free"
     }
   }, 
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25651128677285,-23.842763865390012]
+    },
+    "properties": {
+      "name": "Rocksalt Bar & Restaurant", 
+      "URL": "http://www.rocksaltgladstone.com.au/",
+      "description": "[X] Vegetarian [] Vegan [X] Gluten Friendly [X] Dairy Free"
+    }
+  },
   {
     "type": "Feature",
     "geometry": {
