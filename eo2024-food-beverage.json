@@ -84,18 +84,6 @@
       "description": "The Gladstone Yacht Club was designed to take full advantage of its exceptional location. <br> The Captain’s Deck and New Veranda offer beautiful water and sunset views, a constant sea breeze and a perfect place to wine, dine or relax & unwind.<br>Offering an extensive A la Carte menu Restaurant Menu available for lunch from 11:30am to 2pm and Dinner from 5pm-8pm, all with Gluten Free options (available on request).<br>[X] Vegetarian [X] Vegan [X] Gluten Friendly [X] Dairy Free"
     }
   },
-   {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [151.25592386937527,-23.84263546472861]
-    },
-    "properties": {
-      "name": "The Cotton Mill Gladstone", 
-      "URL": "https://www.facebook.com/thecottonmillgladstone",
-      "description": "[X] Vegetarian [] Vegan [] Gluten Friendly [] Dairy Free"
-    }
-  },
   {
     "type": "Feature",
     "geometry": {
