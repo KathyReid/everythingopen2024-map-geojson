@@ -33,19 +33,20 @@
     "properties": {
       "name": "Gladstone Reef Hotel",
       "URL": "https://reefhotelgladstone.com.au/#panel-eat",
-      "description": "Bistro available 5.30pm to 8.30pm daily."
+      "description": "Freshly renovated, Gladstone Reef Hotel’s a La Carte bistro offers modern Australian cuisine and seats 120 people in air-conditioned comfort. <BR>Offering nightly dinner specials, we also offer Chefs’ specials daily for lunch and dinner. <BR>Dine in our comfortable restaurant or enjoy your meal while watching the sunset over Gladstone Harbour from our beautiful deck.<BR>[X] Vegetarian [] Vegan [X] Gluten Friendly [] Dairy Free"
     }
 },
   {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [151.25558,-23.84188]
+      "coordinates": [151.2547061465109,-23.841856537441355]
     },
     "properties": {
       "name": "Oak and Vine at the Oaks Grand Hotel",
       "URL": "https://www.oakshotels.com/en/oaks-grand-gladstone/oak-and-vine",
-      "description": "Hotel bistro meals"
+      "description": "Sporting a fresh, bright and leafy interior, Oak & Vine is the place to go for traditional hotel bistro meals, including a range of chicken schnitzels, classic fish and chips, pasta dishes and great chargrilled steaks.<br>Oak & Vine also features a bar which boasts your favourite draught beers, Australian and New Zealand wines and cocktails to enjoy with your meal, after work or just on a night out with friends.<BR>[] Vegetarian [] Vegan [X] Gluten Friendly [X] Dairy Free
+"
     }
   },
   {
@@ -59,7 +60,7 @@
       "URL": "https://coffeeclub.com.au/",
       "description": "The Coffee Club provides quality coffee and premium meal choices in a casual atmosphere. Sit back and sip on a expertly brewed coffee made from premium coffee beans, while you enjoy a tasty meal with colleagues, friends or when needing a delicious feed on the go. <br>[X] Vegetarian [X] Vegan [X] Gluten Friendly [] Dairy Free"
     }
-  },
+  
   {
     "type": "Feature",
     "geometry": {
@@ -82,6 +83,18 @@
       "name": "Gladstone Yacht Club Restaurant and Bar",
       "URL": "https://www.gycrb.com.au/",
       "description": "The Gladstone Yacht Club was designed to take full advantage of its exceptional location. <br> The Captain’s Deck and New Veranda offer beautiful water and sunset views, a constant sea breeze and a perfect place to wine, dine or relax & unwind.<br>Offering an extensive A la Carte menu Restaurant Menu available for lunch from 11:30am to 2pm and Dinner from 5pm-8pm, all with Gluten Free options (available on request).<br>[X] Vegetarian [X] Vegan [X] Gluten Friendly [X] Dairy Free"
+    }
+  },
+   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25592386937527,-23.84263546472861 ]
+    },
+    "properties": {
+      "name": "The Cotton Mill Gladstone", 
+      "URL": "https://www.facebook.com/thecottonmillgladstone",
+      "description": "[X] Vegetarian [] Vegan [] Gluten Friendly [] Dairy Free"
     }
   },
   {
