@@ -120,6 +120,18 @@
       "description": "The Gladstone Yacht Club was designed to take full advantage of its exceptional location. <br> The Captain’s Deck and New Veranda offer beautiful water and sunset views, a constant sea breeze and a perfect place to wine, dine or relax & unwind.<br>Offering an extensive A la Carte menu Restaurant Menu available for lunch from 11:30am to 2pm and Dinner from 5pm-8pm, all with Gluten Free options (available on request).<br>[X] Vegetarian [X] Vegan [X] Gluten Friendly [X] Dairy Free"
     }
   },
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.24931187772808,-23.839060347095003]
+    },
+    "properties": {
+      "name": "Gladstone Fish Market Hot Box", 
+      "URL": "https://www.facebook.com/p/Gladstone-Fish-Market-Hot-Box-100041565171135/",
+      "description": "Fish and chips is what makes our world go around. Fresh Reef fish and chips"
+    }
+  },
   {
     "type": "Feature",
     "geometry": {
@@ -262,6 +274,19 @@
       "name": "Cafe Spinnaker Park",
       "URL": "https://cafespinnaker.com/",
       "description": "Located in picturesque Spinnaker Park. Great place for breakfast (from 7am) and brunch."
+    }
+  },
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": []
+    },
+    "properties": {
+      "name": "Fresh Fix", 
+      "URL": "https://freshfixgladstone.com.au/",
+      "description": "Tim is a qualified chef, T.A.F.E. Teacher and a graduate of Southern Cross University with a Diploma of Food Service Management – the first person in Australia to do so. <br>Janene has extensive experience in dietetics within the hospitals but her forte is front of house hospitality with extensive barista skills and knowledge with exemplary customer care. <br>Together we have owned and operated 4 previous businesses on the Gold Coast and to date Fresh Fix is the busiest one thus far.<br>
+What makes Fresh Fix Café such a success – location, food, service, staff and café ambience.<br>[X] Vegetarian [] Vegan [X] Gluten Friendly [X] Dairy Free"
     }
   },
   {
