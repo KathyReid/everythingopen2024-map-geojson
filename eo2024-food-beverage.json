@@ -16,6 +16,20 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
+      "coordinates": [-23.841016885380117, 151.25454119064793]
+    },
+    "properties": {
+      "name": "Lightbox Espresso & Wine Bar", 
+      "URL": "http://www.lightboxgladstone.co"
+      "description": "An espresso and wine bar with a unique drink offering and progressive food menu to match.
+Located at the entrance to Gladstone’s recently re-developed entertainment precinct, Lightbox is the perfect spot for a pre-show drink, lazy weekend breakfast, or chilled Sunday session enjoying live music in the garden or courtyard.",
+      "sensitivity":"[X] Vegetarian [X] Vegan [X] Gluten Friendly [X] Dairy Free"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
       "coordinates": [151.25435,-23.83955]
     },
     "properties": {
