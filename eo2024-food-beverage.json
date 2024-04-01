@@ -16,7 +16,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-23.841016885380117, 151.25454119064793]
+      "coordinates": [151.25454119064793,-23.841016885380117]
     },
     "properties": {
       "name": "Lightbox Espresso & Wine Bar", 
@@ -184,7 +184,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [151.2471181600985,23.828868033955622]
+      "coordinates": [151.2471181600985,-23.828868033955622]
     },
     "properties": {
       "name": "Cafe Spinnaker Park",
