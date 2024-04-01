@@ -16,24 +16,112 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
+      "coordinates": [151.25454119064793,-23.841016885380117]
+    },
+    "properties": {
+      "name": "Lightbox Espresso & Wine Bar", 
+      "URL": "http://www.lightboxgladstone.co",
+      "description": "An espresso and wine bar with a unique drink offering and progressive food menu to match.<br>Located at the entrance to Gladstone’s recently re-developed entertainment precinct, <br>Lightbox is the perfect spot for a pre-show drink, lazy weekend breakfast, or chilled Sunday session enjoying live music in the garden or courtyard.",
+      "Vegetarian": true,
+      "Vegan": true,
+      "GlutenFree": true,
+      "DairyFree": true
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
       "coordinates": [151.25435,-23.83955]
     },
     "properties": {
       "name": "Gladstone Reef Hotel",
       "URL": "https://reefhotelgladstone.com.au/#panel-eat",
-      "description": "Bistro available 5.30pm to 8.30pm daily."
+      "description": "Freshly renovated, Gladstone Reef Hotel’s a La Carte bistro offers modern Australian cuisine and seats 120 people in air-conditioned comfort. <BR>Offering nightly dinner specials, we also offer Chefs’ specials daily for lunch and dinner. <BR>Dine in our comfortable restaurant or enjoy your meal while watching the sunset over Gladstone Harbour from our beautiful deck.",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": true,
+      "DairyFree": false
     }
-},
+  },
   {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [151.25558,-23.84188]
+      "coordinates": [151.25473699191286,-23.841749204577173]
     },
     "properties": {
       "name": "Oak and Vine at the Oaks Grand Hotel",
       "URL": "https://www.oakshotels.com/en/oaks-grand-gladstone/oak-and-vine",
-      "description": "Hotel bistro meals"
+      "description": "Sporting a fresh, bright and leafy interior, Oak & Vine is the place to go for traditional hotel bistro meals, including a range of chicken schnitzels, classic fish and chips, pasta dishes and great chargrilled steaks.<br>Oak & Vine also features a bar which boasts your favourite draught beers, Australian and New Zealand wines and cocktails to enjoy with your meal, after work or just on a night out with friends.",
+      "Vegetarian": false,
+      "Vegan": false,
+      "GlutenFree": true,
+      "DairyFree": true
+      }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.2547061465109,-23.841856537441355]
+    },
+    "properties": {
+      "name": "The Grand Coffee Club", 
+      "URL": "https://coffeeclub.com.au/",
+      "description": "The Coffee Club provides quality coffee and premium meal choices in a casual atmosphere. Sit back and sip on a expertly brewed coffee made from premium coffee beans, while you enjoy a tasty meal with colleagues, friends or when needing a delicious feed on the go. <br>[X] Vegetarian [X] Vegan [X] Gluten Friendly [] Dairy Free",
+      "Vegetarian": true,
+      "Vegan": true,
+      "GlutenFree": true,
+      "DairyFree": false
+      }
+  },
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25538945287633,-23.84149795405685]
+    },
+    "properties": {
+      "name": "Dimitris Mediterranean Restaurant", 
+      "URL": "https://www.facebook.com/people/Dimitris-Mediterranean-Restaurant/",
+      "description": "[X] Vegetarian [] Vegan [X] Gluten Friendly [] Dairy Free",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": true,
+      "DairyFree": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25592386937527,-23.84263546472861]
+    },
+    "properties": {
+      "name": "The Cotton Mill Gladstone", 
+      "URL": "https://www.facebook.com/thecottonmillgladstone",
+      "description": "[X] Vegetarian [] Vegan [] Gluten Friendly [] Dairy Free",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": false,
+      "DairyFree": false
+    }
+  }, 
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25651128677285,-23.842763865390012]
+    },
+    "properties": {
+      "name": "Rocksalt Bar & Restaurant", 
+      "URL": "http://www.rocksaltgladstone.com.au/",
+      "description": "[X] Vegetarian [] Vegan [X] Gluten Friendly [X] Dairy Free",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": true,
+      "DairyFree": true
     }
   },
   {
@@ -45,7 +133,11 @@
     "properties": {
       "name": "McDonalds Gladstone City",
       "URL": "https://mcdonalds.com.au/",
-      "description": "Open 24 hrs"
+      "description": "Open 24 hrs",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": false,
+      "DairyFree": true
     }
   },
   {
@@ -57,7 +149,27 @@
     "properties": {
       "name": "Gladstone Yacht Club Restaurant and Bar",
       "URL": "https://www.gycrb.com.au/",
-      "description": "Higher-end food, specialising in seafood"
+      "description": "The Gladstone Yacht Club was designed to take full advantage of its exceptional location. <br> The Captain’s Deck and New Veranda offer beautiful water and sunset views, a constant sea breeze and a perfect place to wine, dine or relax & unwind.<br>Offering an extensive A la Carte menu Restaurant Menu available for lunch from 11:30am to 2pm and Dinner from 5pm-8pm, all with Gluten Free options (available on request).",
+      "Vegetarian": true,
+      "Vegan": true,
+      "GlutenFree": true,
+      "DairyFree": true
+    }
+  },
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.24931187772808,-23.839060347095003]
+    },
+    "properties": {
+      "name": "Gladstone Fish Market Hot Box", 
+      "URL": "https://www.facebook.com/p/Gladstone-Fish-Market-Hot-Box-100041565171135/",
+      "description": "Fish and chips is what makes our world go around. Fresh Reef fish and chips",
+      "Vegetarian": false,
+      "Vegan": false,
+      "GlutenFree": false,
+      "DairyFree": false
     }
   },
   {
@@ -69,7 +181,43 @@
     "properties": {
       "name": "Fifi's Kebabs",
       "URL": "https://fifiskebab.com.au/",
-      "description": "Kebas, gozeleme, halal snack packs"
+      "description": "Come here for some rest after a long walk around Gladstone Entertainment Convention Centre. Turkish cuisine will be what you are offered to taste at this restaurant. <br>Kebas, gozeleme, halal snack packs<br>[X] Vegetarian [] Vegan [] Gluten Friendly [] Dairy Free",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": false,
+      "DairyFree": false
+    }
+  },
+   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.2557837375948,-23.84293436991247]
+    },
+    "properties": {
+      "name": "Thai Classic", 
+      "URL": "https://www.facebook.com/ThaiClassicRestaurantGladstone/",
+      "description": "Thai Classic Restaurant, a renowned and fully licensed establishment nestled in the heart of Gladstone, specializes in authentic Thai cuisine, featuring a spectrum of traditional Thai dishes.<br> From the ever-popular Thai Green Curry and Pad Thai to an exquisite assortment like the savoury beef salad, the restaurant offers a diverse selection to cater to various tastes.",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": false,
+      "DairyFree": false
+    }
+  },
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25790804711733,-23.84668296004798]
+    },
+    "properties": {
+      "name": "Thai Basement", 
+      "URL": "https://www.facebook.com/ThaiClassicRestaurantGladstone/",
+      "description": "Indulge in the magnificent exotic spices and aromas of Thai cuisine at Thai-Basement, where you can enjoy a memorable dining experience for lunch, dinner, or takeaway. <br>Immerse yourself in our relaxed and casual setting, complemented by the inviting atmosphere of our licensed bar.",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": false,
+      "DairyFree": false
     }
   },
   {
@@ -81,7 +229,11 @@
     "properties": {
       "name": "Central Lane Hotel",
       "URL": "https://www.centrallanehotel.com.au/bar-and-dining",
-      "description": "Hotel bistro, pub grub"
+      "description": "Hotel bistro, pub grub",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": true,
+      "DairyFree": false
     }
   }, 
   {
@@ -96,18 +248,6 @@
       "description": "Groceries, fresh food if you want to make your own food"
     }
   },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [151.26100433777026,-23.848169679137843]
-    },
-    "properties": {
-      "name": "Chinatown Restaurant",
-      "URL": "https://www.chinatownrestaurant.net.au/",
-      "description": "Chinese food"
-    }
-  }, 
   {
     "type": "Feature",
     "geometry": {
@@ -148,13 +288,17 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [151.25690,-23.84385]
+      "coordinates": [151.25599563210767,-23.843876434181436]
     },
     "properties": {
       "name": "The Queens Gladstone",
       "URL": "https://www.queensgladstone.au/",
-      "description": "Steakhouse and pizza, sports-bar style."
-    }
+      "description": "Steakhouse and pizza, sports-bar style.<br>[X] Vegetarian [] Vegan [X] Gluten Friendly [X] Dairy Free",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": true,
+      "DairyFree": true
+      }
   },
   {
     "type": "Feature",
@@ -165,14 +309,18 @@
     "properties": {
       "name": "Familia Restaurant and Cafe Gelati",
       "URL": "https://www.facebook.com/familiarestaurantcafegelati/",
-      "description": "Italian restaurant and gelati."
+      "description": "The aroma of crema delightfully lures your towards La Familia. Service is superb, friendly and quick. Lovely atmosphere and ambience, welcomed as if your are la familia. <br>Venue is homely and clean and begs you to come in, relax and enjoy. Inside and outside verandah dining with the most fabulous water view.<br> Delightful and various delectable brekky, lunch, drinks, (hot, cold and alcoholic as well as ice cream and gelato available.<br> A must to experience whilst in Gladstone.",
+      "Vegetarian": true,
+      "Vegan": true,
+      "GlutenFree": true,
+      "DairyFree": true
     }
   },
   {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [151.2471181600985,23.828868033955622]
+      "coordinates": [151.24705224021903,-23.828800904979083]
     },
     "properties": {
       "name": "Cafe Spinnaker Park",
@@ -180,16 +328,148 @@
       "description": "Located in picturesque Spinnaker Park. Great place for breakfast (from 7am) and brunch."
     }
   },
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25841944200855,-23.846943776106173]
+    },
+    "properties": {
+      "name": "Fresh Fix", 
+      "URL": "https://freshfixgladstone.com.au/",
+      "description": "Tim is a qualified chef, T.A.F.E. Teacher and a graduate of Southern Cross University with a Diploma of Food Service Management – the first person in Australia to do so. <br>Janene has extensive experience in dietetics within the hospitals but her forte is front of house hospitality with extensive barista skills and knowledge with exemplary customer care. <br>Together we have owned and operated 4 previous businesses on the Gold Coast and to date Fresh Fix is the busiest one thus far.<br>What makes Fresh Fix Café such a success – location, food, service, staff and café ambience.",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": true,
+      "DairyFree": true
+    }
+  },
+   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25929438906513,-23.84717094978707]
+    },
+    "properties": {
+      "name": "Ichi Maki", 
+      "URL": "https://gladstonecentreplaza.com.au/stores/ichimaki/",
+      "description": "Gladstone Ichimaki will provide a range of sushi options from nori, nigiri, sashimi, bento boxes, salads and Teppanyaki. Tuck into our scrumptious pork and ginger dumplings, slurp up some heart warming ramen soup. <br>Ichimaki will also cater those taste buds aching for a good Asian stir fry, with our chefs all highly trained and experienced.",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": true,
+      "DairyFree": false
+    }
+  },
   {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [151.25426934641925,-23.83205305982473]
+      "coordinates": [151.25957333880638,-23.847986029930347]
+    },
+    "properties": {
+      "name": "Sushi hyo", 
+      "URL": "https://www.facebook.com/p/Sushi-Hyo-Train-Gladstone-100063766102169/",
+      "description": "Gladstone Ichimaki will provide a range of sushi options from nori, nigiri, sashimi, bento boxes, salads and Teppanyaki. Tuck into our scrumptious pork and ginger dumplings, slurp up some heart warming ramen soup. <BR>Ichimaki will also cater those taste buds aching for a good Asian stir fry, with our chefs all highly trained and experienced.",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": true,
+      "DairyFree": false
+    }
+  },
+   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25940167743238,-23.848083544817918]
+    },
+    "properties": {
+      "name": "Rossco's Pizza", 
+      "URL": "https://rosscospizza.com.au",
+      "description": "Rossco's Pizza stands out among residents with its authentic taste and quality ingredients. According to customer reviews, their pizzas are made without processed foods, offering a genuine Italian experience.",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": false,
+      "DairyFree": false
+    }
+  },
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25988715725612,-23.848539839928453]
+    },
+    "properties": {
+      "name": "Dragon Garden Restaurant", 
+      "URL": "https://www.facebook.com/DragonGardenTankSt/",
+      "description": "Dragon Garden Chinese Restaurant is a high quality chinese and Asian cuisine Restaurant located in the heart of Gladstone. we are a dine in, take away shop that also does catering for local businesses and events in the Gladstone CBD area.",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": false,
+      "DairyFree": false
+    }
+  },
+   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.2609828396357,-23.848222150766887]
+    },
+    "properties": {
+      "name": "Chinatown Restaurant", 
+      "URL": "https://www.chinatownrestaurant.net.au/",
+      "description": "When you’re looking for premium-quality Chinese cuisine at prices that don’t hurt the hip pocket, Chinatown Restaurant is the answer. We’re open for both lunch and dinner, offering a massive selection of beef, pork, chicken, seafood, vegetarian and duck dishes. Fill a container with your favourites and take it home, or take a seat and dine in—the choice is yours! We also cater to large groups and functions. For all enquiries or to order takeaway from the menu, call our friendly team today.",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": false,
+      "DairyFree": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.26142942744988,-23.84754997188853]
+    },
+    "properties": {
+      "name": "Young Australian Hotel", 
+      "URL": "https://www.youngaussiehotel.com.au/",
+      "description": "The Young Australian bistro captures the modern pub eating aesthetic in an all-inclusive, colourful and accommodating menu, with a separate children's menu.<br>Our eatery is the local go-to for every occasion. The meals on offer are plentiful and delicious with a selection of entrées, main courses, share plates, pizzas and meals even the youngsters will enjoy.",
+      "Vegetarian": true,
+      "Vegan": false,
+      "GlutenFree": false,
+      "DairyFree": false
+    }
+  },
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.26284898656667,-23.847264172153796]
+    },
+    "properties": {
+      "name": "The Club Hotel", 
+      "URL": "https://theclubhotelgladstone.com.au/",
+      "description": "Our newly renovated bistro is the perfect spot for a bite to eat. Take a seat and tuck into some quality Queensland classics, from fresh seafood to family favourites like the classic parmy, plus a range of steaks to satisfy our amazing locals. You’ll find all your favourites on tap, with a selection of wines from our favourite producers near and far.",
+      "Vegetarian": true,
+      "Vegan": true,
+      "GlutenFree": true,
+      "DairyFree": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151.25327855436836,-23.832320954210953]
     },
     "properties": {
       "name": "Auckland House Brewery",
       "URL": "https://www.aucklandhouse.co/",
-      "description": "Brewery and bistro with am emphasis on seafood and bespoke beers. Open early from 7am, and open until late at night."
+      "description": "With a warm welcome feel and generosity, matched with premium dining areas, enjoy the unique combination of water views, <BR> fresh drinks and great food with the people you love. <BR>A short stroll through East Shores parkland make this a calming walk with great views of the harbour.",
+      "Vegetarian": true,
+      "Vegan": true,
+      "GlutenFree": true,
+      "DairyFree": true
     }
   }
     ]}
